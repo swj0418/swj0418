@@ -1,5 +1,6 @@
-[![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=swj0418)]
+[![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=swj0418)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swj0418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **swj0418/swj0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
